@@ -1,0 +1,5 @@
+{
+  "name": "GeminiTrade",
+  "description": "A next-generation AI-powered stock trading simulator featuring real-time market emulation, portfolio management, and deep market insights powered by Google Gemini 3.",
+  "requestFramePermissions": []
+}
